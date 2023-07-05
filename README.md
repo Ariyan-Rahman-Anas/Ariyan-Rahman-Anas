@@ -1,7 +1,9 @@
 ![logo](https://github.com/Ariyan-Rahman-Anas/Ariyan-Rahman-Anas/blob/main/Automotive%20(Banner%20(Landscape))%20(1).png)
 ### Hello there!👋
-<h1> I'm Ariyan Rahman Anas</h1>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=250&height=35&lines=Software+Engineer;UI+%26+UX+Designer;MERN+Stack+Developer) </br>
+<h1>I'm Ariyan Rahman Anas</h1>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=250&height=35&lines=Software+Engineer;UI+%26+UX+Designer;MERN+Stack+Developer)
+
 📫 Email : **mohammadariyanrahmananas@gmail.com**
 </br>
 </br>
