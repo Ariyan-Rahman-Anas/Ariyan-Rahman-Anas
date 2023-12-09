@@ -10,7 +10,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" />
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
-- I’m currently learning 🌱**MERN Stack Web Development**
+- I’m currently learning 🌱**Full Stack Web Development with Next.Js**
 - I always like working in **Visual Studio Code** Environment.
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 - 💬 **Ask me** about *HTML, CSS, SASS, Bootstrap, Tailwind CSS, JavaScript, React JS, Firebase, Node JS, MongoDB and GitHub*
