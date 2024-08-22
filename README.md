@@ -10,7 +10,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" />
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
-About Me: I am a professional 🌱 Full Stack Web Developer with a passion for creating impactful web applications. I thrive in the Visual Studio Code environment, leveraging its tools to enhance productivity. A perpetual learner, I am always exploring new 💻 Technologies to stay at the forefront of development. 💬 Feel free to ask me about HTML, CSS, SASS, Bootstrap, Tailwind CSS, JavaScript, React.js, Redux, React Native, Next.js, Firebase, Node.js, Express.js, MongoDB, Mongoose, and GitHub.
+I am a professional 🌱 Full Stack Web Developer with a passion for creating impactful web applications. I thrive in the Visual Studio Code environment, leveraging its tools to enhance productivity. A perpetual learner, I am always exploring new 💻 Technologies to stay at the forefront of development. 💬 Feel free to ask me about HTML, CSS, SASS, Bootstrap, Tailwind CSS, JavaScript, React.js, Redux, React Native, Next.js, Firebase, Node.js, Express.js, MongoDB, Mongoose, and GitHub.
 
 </br>
 
