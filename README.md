@@ -4,17 +4,16 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=22&color=071A22&vCenter=true&width=250&height=35&lines=Software+Engineer;UI+%26+UX+Designer;MERN+Stack+Developer)
 
-📫 Email : **mohammadariyanrahmananas@gmail.com**
-</br>
-</br>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" />
-
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 I am a professional 🌱 Full Stack Web Developer with a passion for creating impactful web applications. I thrive in the Visual Studio Code environment, leveraging its tools to enhance productivity. A perpetual learner, I am always exploring new 💻 Technologies to stay at the forefront of development. 💬 Feel free to ask me about HTML, CSS, SASS, Bootstrap, Tailwind CSS, JavaScript, React.js, Redux, React Native, Next.js, Firebase, Node.js, Express.js, MongoDB, Mongoose, and GitHub.
 
 </br>
-
+<img align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" />
+</br>
 <h3 align="left">Connect with me:</h3>
+📫 Email : **mohammadariyanrahmananas@gmail.com**
+</br>
+</br>
 <p align="left">
 <a href="https://linkedin.com/in/ariyanrahmananas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ariyanrahmananas" height="30" width="40" /></a>
 <a href="https://fb.com/ariyanrahmananas69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ariyanrahmananas69" height="30" width="40" /></a>
