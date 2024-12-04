@@ -11,7 +11,7 @@ I am a professional 🌱 Full Stack Web Developer with a passion for creating im
 <img align="right" alt="coding" width="500" src="https://miro.medium.com/v2/resize:fit:2000/1*-ntL3Dsvc-dJ5cLGRtSuEw.gif" />
 </br>
 <h3 align="left">Connect with me:</h3>
-📫 Email : **anas.hllw@gmail.com**
+📫 Email : anas.hllw@gmail.com
 </br>
 </br>
 <p align="left">
